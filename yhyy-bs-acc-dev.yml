@@ -114,3 +114,7 @@ logging:
 qr_code:
   blacklist: 1710
 
+#coolbit钱包http地址
+coolbit:
+  mtw-ip: 47.100.223.179
+  mtw-port: 8634
